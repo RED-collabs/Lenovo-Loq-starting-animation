@@ -4,4 +4,7 @@ I don't own the logo which is use in this project it for solo entertainment purp
 if you dont like my project or have any legal issuse please contant me, i will gladly remove it
 
 can be use with :https://github.com/chnzzh/lenovo-logo-changer/releases/tag/v0.1.3 
+
+
+
 the above link isnt my project it developed by @chnzzh
